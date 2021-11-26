@@ -1,5 +1,5 @@
 import { cron } from "./deps.ts";
 
-cron("* * * * * *", () => {
+/*cron("* * * * * *", () => {
   console.log("hello");
-});
+});*/
